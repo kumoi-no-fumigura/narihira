@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/narihira",
  "yomi": "なりひらあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安前期",
+  "author": "在原業平（825〜880）",
+  "desc": "六歌仙の一人、在原業平の家集。二条后の大原野詣や都鳥の歌など、『伊勢物語』と重なる歌が多い。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -700,6 +705,6 @@
   "poems": 58,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
